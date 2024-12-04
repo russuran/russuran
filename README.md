@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# Привет, я Руслан!
-
 ![GitHub followers](https://img.shields.io/github/followers/russuran?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/russuran?style=social)
 
