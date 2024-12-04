@@ -9,8 +9,8 @@
 # 🔭 I’m currently working on: [LMS+CRM system](https://16bit.study)
 
 🤔 Stack:
--⚡FastAPI + React
--⚡ReactNative
+- FastAPI + React
+- ReactNative
 
 🌱 Want to learn:
 - Angular
