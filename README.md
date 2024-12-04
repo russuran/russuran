@@ -20,6 +20,9 @@
 
 ## 💬 Currently working as online school CTO
 
+## By the way:
+![Коммиты](https://img.shields.io/badge/коммиты-$(git rev-list --count HEAD)-blue)
+
 ## cooming soon.... [me](https://russuran.me)
 <!--
 **russuran/russuran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
