@@ -8,15 +8,15 @@
 
 # 🔭 I’m currently working on: [LMS+CRM system](https://16bit.study)
 
-# 🤔 Stack:
+🤔 Stack:
 -⚡FastAPI + React
 -⚡ReactNative
 
-# 🌱 Want to learn:
+🌱 Want to learn:
 - Angular
 - Embedded (especially)
 
-# 💬 Currently working as online school CTO
+💬 Currently working as online school CTO
 
 # cooming soon.... [me](https://russuran.me)
 <!--
