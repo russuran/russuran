@@ -11,7 +11,9 @@
 
 
 
-- 🔭 I’m currently working on: [LMS+CRM system](16bit.study)
+- 🔭 I’m currently working on: [LMS+CRM system](https://16bit.study)
+
+- cooming soon.... [me](https://russuran.me)
 <!--
 **russuran/russuran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
