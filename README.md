@@ -18,7 +18,7 @@
 - Angular
 - Embedded (especially)
 
-💬 Currently working as online school CTO
+## 💬 Currently working as online school CTO
 
 ## cooming soon.... [me](https://russuran.me)
 <!--
