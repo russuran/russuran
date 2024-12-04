@@ -9,8 +9,8 @@
 # 🔭 I’m currently working on: [LMS+CRM system](https://16bit.study)
 
 # 🤔 stack:
-    -⚡FastAPI + React
-    -⚡ReactNative
+   -⚡FastAPI + React
+   -⚡ReactNative
 
 # cooming soon.... [me](https://russuran.me)
 <!--
