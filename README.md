@@ -2,10 +2,13 @@
 
 # Привет, я [Ваше имя]!
 
-![GitHub followers](https://img.shields.io/github/followers/ваш_пользователь?style=social)
-![GitHub stars](https://img.shields.io/github/stars/ваш_пользователь?style=social)
+![GitHub followers](https://img.shields.io/github/followers/russuran?style=social)
+![GitHub stars](https://img.shields.io/github/stars/russuran?style=social)
 
-![Анимация](ссылка_на_ваш_gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 
 ## О себе
 Я разработчик с опытом работы в различных технологиях. Люблю учиться новому и делиться знаниями!
