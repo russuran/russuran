@@ -21,7 +21,8 @@
 ## 💬 Currently working as online school CTO
 
 ## By the way:
-![Коммиты](https://img.shields.io/badge/коммиты-$(git rev-list --count HEAD)-blue)
+[![Telegram](https://img.shields.io/badge/Telegram-russuran-blue?style=flat&logo=telegram)](https://t.me/russuran)
+[![Email](https://img.shields.io/badge/Email-Kolpak603@gmail.com-red?style=flat&logo=gmail)](mailto:Kolpak603@gmail.com)
 
 ## cooming soon.... [me](https://russuran.me)
 <!--
