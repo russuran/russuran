@@ -18,7 +18,6 @@
 - Angular
 - Embedded (especially)
 
-## 💬 Currently working as online school CTO
 
 ## By the way:
 [![Telegram](https://img.shields.io/badge/Telegram-russuran-blue?style=flat&logo=telegram)](https://t.me/russuran)
